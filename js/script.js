@@ -1,10 +1,10 @@
-/*let name = prompt("Введіть ваш нікнейм:");
+let name = prompt("Введіть ваш нікнейм:");
 console.log(name);
 if(!name){
   alert("Ім'я було задано некоретно або було відсутнє, ваш нікнейм User");
 }else{
    document.getElementById('name').textContent = name;
-}*/
+}
 let value1 = 0;
 let value2 = 0;
 
